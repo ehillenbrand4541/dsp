@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
-I already had Python 3 installed from working through tutorials on the internet.
+*I already had Python 3 installed from working through tutorials on the internet.*
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
-Python 3.7.3
+*Python 3.7.3*
 
  
 
