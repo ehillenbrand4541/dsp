@@ -21,11 +21,11 @@ Then, I computed the mean of each distribution and compared them:
 
     print('Actual mean: {}'.format(pmf_actual.Mean()))
     print('Biased mean: {}'.format(pmf_biased.Mean()))
-    print('Biased mean is {} percent of Actual mean.'.format(pmf_biased.Mean()/pmf_actual.Mean()))
+    print('Biased mean is {} times greater than Actual mean.'.format(pmf_biased.Mean()/pmf_actual.Mean()))
     
 Actual mean: 1.024205155043831
 
 Biased mean: 2.403679100664282
 
-Biased mean is 2.3468726834922213 percent of Actual mean.
+Biased mean is 2.3468726834922213 times greater than Actual mean.
 
