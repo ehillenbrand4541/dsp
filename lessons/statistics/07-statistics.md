@@ -109,7 +109,7 @@ P(E) = 1/300 * 100% + 1/125 * 25% = 0.00533333
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> While both are useful approaches to inferential statistics, they differ in the way that they define the concept of probability. Bayesian uses prior probability, and frequentist does not. Frequentist treats all random events probabilistically, while Bayesian defines probability distributions over possible values of a parameter which can then be used for other purposes.  
 
 ---
 
